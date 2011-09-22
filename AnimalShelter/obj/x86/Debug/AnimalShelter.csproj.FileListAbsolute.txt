@@ -1,0 +1,9 @@
+C:\GitHub\BasicProject\AnimalShelter\bin\Debug\AnimalShelter.exe
+C:\GitHub\BasicProject\AnimalShelter\bin\Debug\AnimalShelter.pdb
+C:\GitHub\BasicProject\AnimalShelter\bin\Debug\Logic.dll
+C:\GitHub\BasicProject\AnimalShelter\bin\Debug\Entities.dll
+C:\GitHub\BasicProject\AnimalShelter\bin\Debug\Logic.pdb
+C:\GitHub\BasicProject\AnimalShelter\bin\Debug\Entities.pdb
+C:\GitHub\BasicProject\AnimalShelter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\GitHub\BasicProject\AnimalShelter\obj\x86\Debug\AnimalShelter.exe
+C:\GitHub\BasicProject\AnimalShelter\obj\x86\Debug\AnimalShelter.pdb
