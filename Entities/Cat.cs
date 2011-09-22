@@ -9,6 +9,7 @@ namespace Entities
     {
         private String _happy = "Meow";
         private String _angry = "HISS";
+        private String _lazy = "zzzz";
 
         public String CatIsHappy()
         {
@@ -18,6 +19,11 @@ namespace Entities
         public String CatIsAngry()
         {
             return _angry;
+        }
+
+        public String CatIsLazy()
+        {
+            return _lazy;
         }
     }
 }
