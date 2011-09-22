@@ -1,0 +1,7 @@
+C:\GitHub\BasicProject\Logic\bin\Debug\Logic.dll
+C:\GitHub\BasicProject\Logic\bin\Debug\Logic.pdb
+C:\GitHub\BasicProject\Logic\bin\Debug\Entities.dll
+C:\GitHub\BasicProject\Logic\bin\Debug\Entities.pdb
+C:\GitHub\BasicProject\Logic\obj\Debug\ResolveAssemblyReference.cache
+C:\GitHub\BasicProject\Logic\obj\Debug\Logic.dll
+C:\GitHub\BasicProject\Logic\obj\Debug\Logic.pdb
